@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abdulrazak-invitation-test/users/static/css/main.9db0f17d.css",
-    "main.js": "/abdulrazak-invitation-test/users/static/js/main.dab75dc6.js",
-    "static/media/foto_abdulrazak.png": "/abdulrazak-invitation-test/users/static/media/foto_abdulrazak.625d9e29ea24f6e971da.png",
-    "static/media/shape.png": "/abdulrazak-invitation-test/users/static/media/shape.aef5afef62f4068ad93b.png",
-    "index.html": "/abdulrazak-invitation-test/users/index.html",
-    "main.9db0f17d.css.map": "/abdulrazak-invitation-test/users/static/css/main.9db0f17d.css.map",
-    "main.dab75dc6.js.map": "/abdulrazak-invitation-test/users/static/js/main.dab75dc6.js.map"
+    "main.css": "/abdulrazak-invitation-test/static/css/main.9db0f17d.css",
+    "main.js": "/abdulrazak-invitation-test/static/js/main.394d8600.js",
+    "static/media/foto_abdulrazak.png": "/abdulrazak-invitation-test/static/media/foto_abdulrazak.625d9e29ea24f6e971da.png",
+    "static/media/shape.png": "/abdulrazak-invitation-test/static/media/shape.aef5afef62f4068ad93b.png",
+    "index.html": "/abdulrazak-invitation-test/index.html",
+    "main.9db0f17d.css.map": "/abdulrazak-invitation-test/static/css/main.9db0f17d.css.map",
+    "main.394d8600.js.map": "/abdulrazak-invitation-test/static/js/main.394d8600.js.map"
   },
   "entrypoints": [
     "static/css/main.9db0f17d.css",
-    "static/js/main.dab75dc6.js"
+    "static/js/main.394d8600.js"
   ]
 }
