@@ -8,8 +8,8 @@ const Dashboard = () => {
                 <h1>My Profile</h1>
             </div>
             <div className="date1">
-                <h1>I,Am Abdul<span>Razak</span></h1>
-                <p>This My Test Invitation For PT.Satnusa Persada Tbk Batam as Front End Engineer</p>
+                <h1>Hi,I am Abdul<span>Razak</span></h1>
+                <p>This My Test Invitation For PT.Satnusa Persada Tbk Batam as Front End Developer</p>
                 <p>Thank you for giving me the opportunity to take this invitation test</p>
             </div>
             <div className="images">
