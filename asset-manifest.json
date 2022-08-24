@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abdulrazak-invitation-test/static/css/main.9db0f17d.css",
-    "main.js": "/abdulrazak-invitation-test/static/js/main.b2dd714d.js",
+    "main.js": "/abdulrazak-invitation-test/static/js/main.394d8600.js",
     "static/media/foto_abdulrazak.png": "/abdulrazak-invitation-test/static/media/foto_abdulrazak.625d9e29ea24f6e971da.png",
     "static/media/shape.png": "/abdulrazak-invitation-test/static/media/shape.aef5afef62f4068ad93b.png",
     "index.html": "/abdulrazak-invitation-test/index.html",
     "main.9db0f17d.css.map": "/abdulrazak-invitation-test/static/css/main.9db0f17d.css.map",
-    "main.b2dd714d.js.map": "/abdulrazak-invitation-test/static/js/main.b2dd714d.js.map"
+    "main.394d8600.js.map": "/abdulrazak-invitation-test/static/js/main.394d8600.js.map"
   },
   "entrypoints": [
     "static/css/main.9db0f17d.css",
-    "static/js/main.b2dd714d.js"
+    "static/js/main.394d8600.js"
   ]
 }
