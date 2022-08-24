@@ -9,7 +9,7 @@ import "../styling/App.css"
 
 function Sidebar({children}) {
 
-  const[isOpen ,setIsOpen] = useState(false);
+  const[isOpen ,setIsOpen] = useState(true);
   const toggle = () => setIsOpen (!isOpen);
 
   const menuItems = [
